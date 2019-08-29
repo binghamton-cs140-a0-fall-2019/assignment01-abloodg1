@@ -1,0 +1,139 @@
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-01-03, Middletown, New Jersey, USA
+Date and place of birth: 2000-01-03, Middletown, New York, USA
+Date and place of birth: 2004-01-03, New York, New York, USA
+Date and place of birth: 1980-05-20, Tokyo, Japan
+Date and place of birth: 1971-06-15, Paris, France
+true
+true
+false
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+true
+true
+false
+false
+true
+true
+true
+true
+true
+true
+false
+false
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+true
+false
+false
+false
+false
+false
+false
+true
+true
+true
+false
+true
+true
+true
+true
+
+TESTS FOR StreetUSAddress.java:
+
+TESTS FOR PersonTester.java:
+
+TESTS FOR StreetUSAddress.java:
+45 Princeton St.
+Red Bank, NJ 07701
+123 Main St.
+Main Way
+Maintown, NY 12345
+
+TESTS FOR PersonTester.java:
+Adam Bloodgood (1234-56-7890) Date and place of birth: 2001-01-03, Middletown, NJ, USA45 Princeton St.
+Red Bank, NJ 07701
+
+TESTS FOR PersonTester.java:
+Adam Bloodgood (1234-56-7890) ,Date and place of birth: 2001-01-03, Middletown, NJ, USA,45 Princeton St.
+Red Bank, NJ 07701
+
+TESTS FOR PersonTester.java:
+Adam Bloodgood (1234-56-7890)
+Date and place of birth: 2001-01-03, Middletown, NJ, USA
+45 Princeton St.
+Red Bank, NJ 07701
+
+
+TESTS FOR ComputerOwnerTester.java:
+Computer List, Owner: Adam Bloodgood (1234-56-7890)
+Date and place of birth: 2001-01-03, Middletown, NJ, USA
+45 Princeton St.
+Red Bank, NJ 07701
+
+Computers: []
+
+TESTS FOR ComputerOwnerTester.java:
+Computer List, Owner: Adam Bloodgood (1234-56-7890)
+Date and place of birth: 2001-01-03, Middletown, NJ, USA
+45 Princeton St.
+Red Bank, NJ 07701
+
+Computers: []
+
+TESTS FOR ComputerOwnerTester.java:
+Computer List, Owner: Adam Bloodgood (1234-56-7890)
+Date and place of birth: 2001-01-03, Middletown, NJ, USA
+45 Princeton St.
+Red Bank, NJ 07701
+
+Computers: []
+
+TESTS FOR ComputerOwnerTester.java:
+Computer List, Owner: Adam Bloodgood (1234-56-7890)
+Date and place of birth: 2001-01-03, Middletown, NJ, USA
+45 Princeton St.
+Red Bank, NJ 07701
+
+Computers: []
+
+TESTS FOR ComputerOwnerTester.java:
+Computer List, Owner: Adam Bloodgood (1234-56-7890)
+Date and place of birth: 2001-01-03, Middletown, NJ, USA
+45 Princeton St.
+Red Bank, NJ 07701
+
+Computers: [Apple, MacBookPro, 8GB Memory, 2.1TB Solid State Drive, Price: $2000.00 , Apple, MacBook, 8GB Memory, 500GB Hard Drive, Price: $800.00 , Microsoft, SurfacePro, 8GB Memory, 2.1TB Hard Drive, Price: $2000.00 , Microsoft, Surface, 8GB Memory, 500GB Solid State Drive, Price: $1400.00 ]
+Computer List, Owner: Adam Bloodgood (1234-56-7890)
+Date and place of birth: 2001-01-03, Middletown, NJ, USA
+45 Princeton St.
+Red Bank, NJ 07701
+
+Computers: [Apple, MacBookPro, 8GB Memory, 2.1TB Solid State Drive, Price: $2000.00 , Microsoft, SurfacePro, 8GB Memory, 2.1TB Hard Drive, Price: $2000.00 ]
